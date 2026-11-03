@@ -1,1 +1,1 @@
-A multi-agent research workflow that creates analyst personas, runs parallel interview loops with web search, and synthesizes the results into a cited report using LangGraph, LangChain, OpenAI, and Tavily.
+A small, beginner-friendly LangGraph learning repo from AI Career Lab. Introducing one concept at a time, from the simplest possible graph to tool-calling agents with memory.
